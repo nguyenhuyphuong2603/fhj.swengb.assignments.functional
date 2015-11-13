@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.functional.nguyenhuyphuong2603
+package fhj.swengb.assignments.functional.pnguyen
 
 import org.junit.Assert._
 import org.junit.{Ignore, Test}
